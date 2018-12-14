@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string name="app_name">JS4application</string>
+        <string name="login">Login</string>
+        <string name="register">Registrati</string>
+        <string name="password">Inserisci password</string>
+        <string name="email">Inserisci email</string>
+    </resources>

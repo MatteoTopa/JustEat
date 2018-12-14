@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">JS4application</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="password">Insert your password</string>
+    <string name="email">Insert your email</string>
+    <string name="login_error">Login failed</string>
+    <string name="login_success">Login success</string>
+    <string name="email_error">Email error</string>
+    <string name="password_error">Password error</string>
+    <string name="phone_number">Insert your phone number</string>
+    <string name="testo">Register</string>
+    <string name="dark_mode">dark_mode</string>
+</resources>
